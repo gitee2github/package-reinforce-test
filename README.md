@@ -6,12 +6,12 @@
 ## 软件架构
 软件架构说明
 
-├── README.en.md
-├── README.md
-├── License
-│   └── LICENSE
-├── suite2cases
-└── testcases
+├── README.en.md  
+├── README.md  
+├── License  
+│   └── LICENSE  
+├── suite2cases  
+└── testcases  
 
 ## 使用说明
 openEuler社区作为一个集成社区，发布了上千个软件包；为更好地保障各软件包提供的能力能够满足用户使用，除依赖原生上游社区的测试能力，还需进行更深层更广的测试。从系统影响程度和用户使用场景角度出发，选取重要软件包进行测试加强活动。
